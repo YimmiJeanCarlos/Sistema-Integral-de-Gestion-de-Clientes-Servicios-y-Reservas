@@ -1,0 +1,13 @@
+2026-05-11 21:17:40,717 - INFO - Cliente agregado: Juan Pérez
+2026-05-11 21:17:40,717 - ERROR - Correo electrónico inválido
+2026-05-11 21:17:40,717 - ERROR - La tarifa debe ser mayor a cero
+2026-05-11 21:17:40,717 - INFO - Reserva confirmada para Juan Pérez
+2026-05-11 21:17:40,717 - INFO - Proceso de confirmación ejecutado
+2026-05-11 21:17:40,718 - ERROR - Las horas deben ser mayores a cero
+2026-05-11 21:17:40,718 - INFO - Reserva confirmada para Juan Pérez
+2026-05-11 21:17:40,718 - INFO - Proceso de confirmación ejecutado
+2026-05-11 21:17:40,718 - INFO - Reserva confirmada para Juan Pérez
+2026-05-11 21:17:40,718 - INFO - Proceso de confirmación ejecutado
+2026-05-11 21:17:40,718 - WARNING - Reserva cancelada por Juan Pérez
+2026-05-11 21:17:40,718 - ERROR - Cliente no válido
+2026-05-11 21:17:40,718 - ERROR - Servicio no válido
